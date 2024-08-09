@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22125" started-at="2019-10-17T12:14:39Z" finished-at="2019-10-17T12:15:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22125" started-at="2019-10-17T12:14:39Z" finished-at="2019-10-17T12:15:01Z">
+      <class name="appTestCases.LoginTestCases">
+        <test-method status="PASS" signature="Before()[pri:0, instance:appTestCases.LoginTestCases@a67c67e]" name="Before" is-config="true" duration-ms="82" started-at="2019-10-17T17:44:39Z" finished-at="2019-10-17T17:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:appTestCases.LoginTestCases@a67c67e]" name="BeforeClass" is-config="true" duration-ms="20319" started-at="2019-10-17T17:44:39Z" finished-at="2019-10-17T17:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="test001_LoginScreenVerification()[pri:0, instance:appTestCases.LoginTestCases@a67c67e]" name="test001_LoginScreenVerification" duration-ms="7" started-at="2019-10-17T17:44:59Z" finished-at="2019-10-17T17:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001_LoginScreenVerification -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:appTestCases.LoginTestCases@a67c67e]" name="AfterClass" is-config="true" duration-ms="1674" started-at="2019-10-17T17:44:59Z" finished-at="2019-10-17T17:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="After()[pri:0, instance:appTestCases.LoginTestCases@a67c67e]" name="After" is-config="true" duration-ms="36" started-at="2019-10-17T17:45:01Z" finished-at="2019-10-17T17:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- appTestCases.LoginTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
